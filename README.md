@@ -3,7 +3,7 @@
 
 ## General info
 
-My Todo 📑 is a simple flask API 📱 which will store my todo's. Also this application has feature like update ✅ the todo in case miss typed and delete to delete ❌ your todo.
+My Todo 📑 is a simple flask API 📱 which will store my todo's. Also this application has feature like update ✅ the todo in case miss typed and delete to delete ❌ my todo. To store todo's I have used SQL Alchemy.
 
 ## Screenshots
 
