@@ -8,7 +8,7 @@ My Todo 📑 is a simple flask API 📱 which will store my todo's. Also this ap
 ## Screenshots
 
  <p align="center">
-  <img width="800" height="450" src="https://github.com/ItsSuru/My-Todo-Flask/blob/main/todo.PNG">
+  <img width="800" height="400" src="https://github.com/ItsSuru/My-Todo-Flask/blob/main/todo.PNG">
 </p>
 
 ## Technologies used
